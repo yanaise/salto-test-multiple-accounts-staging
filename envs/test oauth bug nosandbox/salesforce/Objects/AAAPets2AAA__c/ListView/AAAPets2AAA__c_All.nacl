@@ -1,0 +1,8 @@
+salesforce.ListView AAAPets2AAA__c_All {
+  fullName = "AAAPets2AAA__c.All"
+  filterScope = "Everything"
+  label = "All"
+  _parent = [
+    salesforce.AAAPets2AAA__c,
+  ]
+}

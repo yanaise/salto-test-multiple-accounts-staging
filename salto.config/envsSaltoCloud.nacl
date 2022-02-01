@@ -1,4 +1,12 @@
 envs {
   envsCloud = [
+    {
+      uuid = "4a454806-4a73-4066-a0f8-67b5dce69cda"
+      folderName = "test oauth bug"
+    },
+    {
+      uuid = "d349ab0c-fe60-4b56-a158-62e77c79536f"
+      folderName = "test oauth bug nosandbox"
+    },
   ]
 }

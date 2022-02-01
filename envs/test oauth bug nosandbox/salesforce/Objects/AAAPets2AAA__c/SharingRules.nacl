@@ -1,0 +1,6 @@
+salesforce.SharingRules AAAPets2AAA__c {
+  fullName = "AAAPets2AAA__c"
+  _parent = [
+    salesforce.AAAPets2AAA__c,
+  ]
+}

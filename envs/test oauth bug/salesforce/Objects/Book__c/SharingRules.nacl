@@ -1,0 +1,6 @@
+salesforce.SharingRules Book__c {
+  fullName = "Book__c"
+  _parent = [
+    salesforce.Book__c,
+  ]
+}

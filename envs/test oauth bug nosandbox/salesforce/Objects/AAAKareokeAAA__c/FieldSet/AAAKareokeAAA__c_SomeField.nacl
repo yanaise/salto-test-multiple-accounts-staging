@@ -1,0 +1,8 @@
+salesforce.FieldSet AAAKareokeAAA__c_SomeField {
+  fullName = "AAAKareokeAAA__c.SomeField"
+  description = "What?"
+  label = "SomeField"
+  _parent = [
+    salesforce.AAAKareokeAAA__c,
+  ]
+}
